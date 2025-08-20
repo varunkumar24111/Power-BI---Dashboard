@@ -16,9 +16,9 @@ In addition, the report includes two more pages for deeper exploration:
 - **Supplier Page** → supplier insights, delivery performance, and related KPIs  
 
 ## Preview
-![Overview](https://github.com/user-attachments/assets/2193d8c6-a21f-434a-881c-3b418afdc41f)
-![Product](images/product.png)
-![Supplier](images/supplier.png)
+![Performance Summary](https://github.com/varunkumar24111/Power-BI---Dashboard/blob/main/Images/Performance%20Summary.JPG)
+![Product Analysis](https://github.com/varunkumar24111/Power-BI---Dashboard/blob/main/Images/Product%20Analysis.JPG)
+![Supplier Analysis](https://github.com/varunkumar24111/Power-BI---Dashboard/blob/main/Images/Supplier%20Analysis.JPG)
 
-- **PDF (all pages):** [Download](./report.pdf)  
-- **Power BI file (.pbix):** [Download](./report.pbix)  
+- **PDF (all pages):** https://github.com/varunkumar24111/Power-BI---Dashboard/blob/main/Supply_Chain_Project_Pdf_File.pdf)  
+- **Power BI file (.pbix):** https://github.com/varunkumar24111/Power-BI---Dashboard/blob/main/Supply_Chain_Dashboard.pbix)  
