@@ -22,3 +22,5 @@ In addition, the report includes two more pages for deeper exploration:
 
 - **PDF (all pages):** https://github.com/varunkumar24111/Power-BI---Dashboard/blob/main/Supply_Chain_Project_Pdf_File.pdf)  
 - **Power BI file (.pbix):** https://github.com/varunkumar24111/Power-BI---Dashboard/blob/main/Supply_Chain_Dashboard.pbix)  
+
+**Power BI file (.pbix):** [Download](./Supply_Chain_Dashboard.pbix) 
