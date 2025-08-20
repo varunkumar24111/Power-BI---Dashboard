@@ -20,7 +20,5 @@ In addition, the report includes two more pages for deeper exploration:
 ![Product Analysis](https://github.com/varunkumar24111/Power-BI---Dashboard/blob/main/Images/Product%20Analysis.JPG)
 ![Supplier Analysis](https://github.com/varunkumar24111/Power-BI---Dashboard/blob/main/Images/Supplier%20Analysis.JPG)
 
-- **PDF (all pages):** https://github.com/varunkumar24111/Power-BI---Dashboard/blob/main/Supply_Chain_Project_Pdf_File.pdf)  
-- **Power BI file (.pbix):** https://github.com/varunkumar24111/Power-BI---Dashboard/blob/main/Supply_Chain_Dashboard.pbix)  
-
-**Power BI file (.pbix):** [Download](./Supply_Chain_Dashboard.pbix) 
+- **PDF report:** [Download](./Supply_Chain_Project_Pdf_File.pdf)
+- **Power BI file (.pbix):** [Download](./Supply_Chain_Dashboard.pbix) 
